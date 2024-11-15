@@ -15,7 +15,12 @@ Je suis [Votre Nom], un développeur passionné et toujours curieux d'explorer d
 - **Akaunting avec DevOps**: Mise en place d’un pipeline DevOps sur une application existante
 - **API Compte Bancaire**: [copli](C:\xampp\htdocs\tp_php1\api\compte-bancaire-api.php)
 - **ClientWs / API**: Réorganisation et découpage de fichiers pour une architecture de services optimisée
+- 
+## 📫 Contact
 
+Vous pouvez me contacter ici sur GitHub ou via mes autres plateformes :
+
+- **Email**: [chtouki.a702@ucd.ac.ma](mailto:chtouki.a702@ucd.ac.ma)
 ## 📈 Mon Stack Technique
 
 ```plaintext
@@ -23,9 +28,5 @@ Langages      | Java, PHP, JavaScript, SQL, TypeScript
 Frameworks    | Spring Boot, Angular, iTextPDF
 Outils DevOps | Docker, XAMPP, Cisco (BVI1), IntelliJ
 Bases de données | MySQL, Oracle (via JDBC)
-## 📫 Contact
 
-Vous pouvez me contacter ici sur GitHub ou via mes autres plateformes :
-
-- **Email**: [chtouki.a702@ucd.ac.ma](mailto:chtouki.a702@ucd.ac.ma)
 
