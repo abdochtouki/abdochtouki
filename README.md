@@ -14,8 +14,6 @@ Je suis [Votre Nom], un développeur passionné et toujours curieux d'explorer d
 
 - **Akaunting avec DevOps**: Mise en place d’un pipeline DevOps sur une application existante
 - **API Compte Bancaire**: [copli](C:\xampp\htdocs\tp_php1\api\compte-bancaire-api.php)
-- **ClientWs / API**: Réorganisation et découpage de fichiers pour une architecture de services optimisée
-- 
 ## 📫 Contact
 
 Vous pouvez me contacter ici sur GitHub ou via mes autres plateformes :
