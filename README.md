@@ -10,10 +10,6 @@ Je suis Abdessalm CHTOUKI, un développeur passionné et toujours curieux d'expl
 - 👷 **Projets récents**: Application de facturation en Java, API bancaire, déploiement d'applications avec Docker
 - 📚 **Ambitions**: Maîtriser les architectures complexes, les designs patterns avancés et l'optimisation de performances
 
-## 🔧 Projets et Réalisations
-
-- **Akaunting avec DevOps**: Mise en place d’un pipeline DevOps sur une application existante
-- **API Compte Bancaire**: [copli](C:\xampp\htdocs\tp_php1\api\compte-bancaire-api.php)
 ## 📫 Contact
 
 Vous pouvez me contacter ici sur GitHub ou via mes autres plateformes :
@@ -24,7 +20,6 @@ Vous pouvez me contacter ici sur GitHub ou via mes autres plateformes :
 ```plaintext
 Langages      | Java, PHP, JavaScript, SQL, TypeScript
 Frameworks    | Spring Boot, Angular, iTextPDF
-Outils DevOps | Docker, XAMPP, Cisco (BVI1), IntelliJ
 Bases de données | MySQL, Oracle (via JDBC)
 
 
