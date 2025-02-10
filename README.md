@@ -4,7 +4,7 @@ Je suis Abdessalm CHTOUKI, un développeur passionné et toujours curieux d'expl
 
 ## 🌟 À propos de moi
 
-- 🎓 **Compétences**: Java, Spring, Angular, DevOps, Docker, Cisco, SQL, JDBC, IntelliJ, 
+- 🎓 **Compétences**: Java, Spring, Angular, DevOps, Docker, Cisco, SQL,
 - 🌱 **Actuellement en apprentissage**: DevOps et bonnes pratiques de conception logicielle
 - 💡 **Intérêts**: Développement backend et frontend, automatisation, cloud computing
 - 👷 **Projets récents**: Application de facturation en Java, API bancaire, déploiement d'applications avec Docker
