@@ -14,7 +14,7 @@ Je suis Abdessalm CHTOUKI, un développeur passionné et toujours curieux d'expl
 
 Vous pouvez me contacter ici sur GitHub ou via mes autres plateformes :
 
-- **Email**: [chtouki.a702@ucd.ac.ma](mailto:chtouki.a702@ucd.ac.ma)
+- **Email**: [chouki.a37@gmail.com](mailto:chtouki.a37@gmail.com)
 - **Téléphone**: 0652868550
 ## 📈 Mon Stack Technique
 
