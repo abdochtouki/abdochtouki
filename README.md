@@ -19,8 +19,12 @@ Vous pouvez me contacter ici sur GitHub ou via mes autres plateformes :
 ## 📈 Mon Stack Technique
 
 ```plaintext
-Langages      | Java, PHP, JavaScript, SQL, TypeScript
-Frameworks    | Spring Boot, Angular, iTextPDF
-Bases de données | MySQL, Oracle (via JDBC)
+# Mon Projet
+
+![Laravel](https://img.shields.io/badge/Made%20with-Laravel-red?logo=laravel)
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![MySQL](https://img.shields.io/badge/Database-MySQL-lightblue?logo=mysql)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 
 
