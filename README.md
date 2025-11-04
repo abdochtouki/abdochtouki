@@ -100,6 +100,15 @@ I believe in **clean code**, **best practices**, and **continuous improvement** 
 
 ---
 
+## 🔥 GitHub Stats & Activity
+
+![Abdo Chtouki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdochtouki&show_icons=true&theme=dark&hide_title=true)
+
+![Abdo Chtouki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdochtouki&layout=compact&theme=dark&hide_title=true)
+
+---
+
+
 ⭐ **"Keep learning, keep building, and keep improving every single day."**
 
 
