@@ -104,7 +104,7 @@ I believe in **clean code**, **best practices**, and **continuous improvement** 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdochtouki&layout=compact&theme=dark&hide_title=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abdochtouki&theme=dark&hide_border=true)
+![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=abdochtouki&theme=dark)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdochtouki&theme=react-dark&hide_border=true&area=true)
 
