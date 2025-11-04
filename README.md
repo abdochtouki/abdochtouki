@@ -55,7 +55,6 @@ I believe in **clean code**, **best practices**, and **continuous improvement** 
 
 ### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Odoo](https://img.shields.io/badge/-Odoo-714B67?logo=odoo&logoColor=white)
@@ -73,7 +72,6 @@ I believe in **clean code**, **best practices**, and **continuous improvement** 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-4285F4?logo=googlecloud&logoColor=white)
 
 ---
