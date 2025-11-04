@@ -100,11 +100,13 @@ I believe in **clean code**, **best practices**, and **continuous improvement** 
 
 ---
 
-## 🔥 GitHub Stats & Activity
-
 ![Abdo Chtouki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdochtouki&show_icons=true&theme=dark&hide_title=true)
 
 ![Abdo Chtouki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdochtouki&layout=compact&theme=dark&hide_title=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdochtouki&theme=dark)
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=abdochtouki&theme=react-dark&area=true)
 
 ---
 
