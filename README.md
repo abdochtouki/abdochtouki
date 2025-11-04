@@ -14,7 +14,7 @@
 
 ## 🧍‍♂️ À propos de moi
 
-Je suis **Abdo Chtouki**, un développeur passionné, toujours curieux d’apprendre et d’explorer de nouvelles technologies.  
+Je suis **Abdessalam CHTOUKI**, un développeur passionné, toujours curieux d’apprendre et d’explorer de nouvelles technologies.  
 Mon objectif : **concevoir des projets utiles, performants et élégants**.  
 Je m’intéresse particulièrement au **développement web**, à la **programmation backend**, aux **bases de données** et au **DevOps**.
 
@@ -23,7 +23,7 @@ Je m’intéresse particulièrement au **développement web**, à la **programma
 ## 📫 Contact
 
 📧 **Email :** [chtouki.a37@gmail.com](mailto:chtouki.a37@gmail.com)  
-📱 **Téléphone :** 0600000000  
+📱 **Téléphone :** 0652868550  
 🌍 **GitHub :** [abdochtouki](https://github.com/abdochtouki)
 
 ---
