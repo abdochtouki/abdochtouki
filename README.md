@@ -91,6 +91,8 @@ I believe in **clean code**, **best practices**, and **continuous improvement** 
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
+---
+
 ## 🔥 GitHub Stats & Activity
 
 ### 🧮 Overall Stats  
