@@ -117,28 +117,3 @@ Je m’intéresse particulièrement au **développement web**, à la **programma
 
 </div>
 
-## 🏆 Tableau de Bord d'Activité
-
-### 📅 Dernières Contributions
-<div align="center">
-
-| 🔥 Activité Récente | 📊 Métriques |
-|---------------------|--------------|
-| **Période** | Novembre 2025 |
-| **Commits** | <img src="https://img.shields.io/badge/18%20commits-%2300F7A0.svg?style=for-the-badge" alt="18 commits"> |
-| **Repository** | <img src="https://img.shields.io/badge/abdochtouki-%23007EC6.svg?style=for-the-badge" alt="abdochtouki"> |
-| **Statut** | <img src="https://img.shields.io/badge/Actif-%2300D4FF.svg?style=for-the-badge" alt="Actif"> |
-
-</div>
-
-### 🎯 Progression Mensuelle
-```mermaid
-graph LR
-    A[Nov<br>18 commits] --> B[Déc<br>En cours]
-    B --> C[Jan<br>À venir]
-    C --> D[Fév<br>À venir]
-    
-    style A fill:#00F7A0,color:#000
-    style B fill:#00D4FF,color:#000
-    style C fill:#FFD93D,color:#000
-    style D fill:#6C63FF,color:#fff
