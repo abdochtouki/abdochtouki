@@ -100,23 +100,23 @@ I believe in **clean code**, **best practices**, and **continuous improvement** 
 
 ## 🔥 GitHub Stats & Activity
 
-### 🧮 Overall Stats
+### 🧮 Overall Stats  
 ![Abdo Chtouki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdochtouki&show_icons=true&theme=dark&hide_title=true&count_private=true)
 
-### 🧠 Top Languages
+### 🧠 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdochtouki&layout=compact&theme=dark&hide_title=true)
 
-### ⚡ GitHub Streak
+### ⚡ GitHub Streak  
 ![GitHub Streak](https://github-readme-streak-stats-eight-chi.vercel.app/?user=abdochtouki&theme=dark&hide_border=true)
 
-### 📈 Contribution Graph
+### 📈 Contribution Graph  
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdochtouki&theme=react-dark&hide_border=true&area=true)
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdochtouki&theme=darkhub&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
+### 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdochtouki&theme=onedark&no-frame=true&no-bg=true&margin-w=15)
 
-### 🥇 Achievements
-![GitHub Achievements](https://github-profile-achievements.vercel.app/api?username=abdochtouki&theme=dark&show=1-5)
+### 🥇 GitHub Achievements  
+![GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdochtouki&theme=dark)
 
 ---
 
