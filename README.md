@@ -1,12 +1,12 @@
-<div align="center">
+<div align="center" style="border: 2px solid #00BFFF; border-radius: 15px; padding: 25px; box-shadow: 0px 0px 20px rgba(0, 191, 255, 0.4); background-color: #0d1117;">
 
 # 👋 Bienvenue sur mon profil GitHub  
 
 ### 💻 *Développeur passionné | Créateur de solutions efficaces | Apprenant perpétuel*  
 
----
-
 </div>
+
+---
 
 > 🧠 *"Le code est comme l’art : plus il est simple, plus il est puissant."*
 
@@ -115,3 +115,4 @@ Je m’intéresse particulièrement au **développement web**, à la **programma
 
 ---
 
+</div>
