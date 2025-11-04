@@ -18,13 +18,10 @@ Vous pouvez me contacter ici sur GitHub ou via mes autres plateformes :
 - **Téléphone**: 0652868550
 ## 📈 Mon Stack Technique
 
-```plaintext
-# Mon Projet
-
-![Laravel](https://img.shields.io/badge/Made%20with-Laravel-red?logo=laravel)
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
-![MySQL](https://img.shields.io/badge/Database-MySQL-lightblue?logo=mysql)
-![License](https://img.shields.io/badge/License-MIT-green)
+Programming Languages
+<div align="center">
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white	https://img.shields.io/badge/C%252B%252B-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+</div>
 
 
 
