@@ -98,15 +98,16 @@ I believe in **clean code**, **best practices**, and **continuous improvement** 
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
----
+## 🔥 GitHub Stats & Activity
 
 ![Abdo Chtouki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdochtouki&show_icons=true&theme=dark&hide_title=true)
 
-![Abdo Chtouki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdochtouki&layout=compact&theme=dark&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdochtouki&layout=compact&theme=dark&hide_title=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdochtouki&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=abdochtouki&theme=dark&hide_border=true)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=abdochtouki&theme=react-dark&area=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdochtouki&theme=react-dark&hide_border=true&area=true)
+
 
 ---
 
