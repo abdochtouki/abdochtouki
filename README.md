@@ -24,7 +24,7 @@ Je m’intéresse particulièrement au **développement web**, à la **programma
 
 📧 **Email :** [chtouki.a37@gmail.com](mailto:chtouki.a37@gmail.com)  
 📱 **Téléphone :** 0652868550  
-[![LinkedIn](https://img.shields.io/badge/-Abdo%20Chtouki-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/abdessalam-chtouki-31943a280/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/abdessalam-chtouki-31943a280/)
 
 ---
 
