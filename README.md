@@ -2,7 +2,7 @@
 
 #  Bienvenue sur mon profil GitHub  
 
-### 💻 *Développeur passionné | Créateur de solutions efficaces | Apprenant perpétuel*  
+###  *Développeur passionné | Créateur de solutions efficaces | Apprenant perpétuel*  
 
 </div>
 
