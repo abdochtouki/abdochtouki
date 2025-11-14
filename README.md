@@ -22,12 +22,15 @@ Je m’intéresse particulièrement au **développement web**, à la **programma
 
 ## 📫 Contact
 
-📧 **Email :** [chtouki.a37@gmail.com](mailto:chtouki.a37@gmail.com)  
-📱 **Téléphone :** 0652868550 
-📱 **Portfolio :** [chtouki.vercel.app](https://chtouki.vercel.app/) | 
-<a href="https://www.linkedin.com/in/abdessalam-chtouki-31943a280/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="60"/>
-</a>
+<p>📧 <strong>Email :</strong> <a href="mailto:chtouki.a37@gmail.com">chtouki.a37@gmail.com</a></p>
+<p>📱 <strong>Téléphone :</strong> 0652868550</p>
+<p>📱 <strong>Portfolio :</strong> <a href="https://chtouki.vercel.app/">chtouki.vercel.app</a></p>
+<p>
+  <a href="https://www.linkedin.com/in/abdessalam-chtouki-31943a280/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="60"/>
+  </a>
+</p>
+
 
 
 ---
