@@ -2,7 +2,7 @@
 
 # Bienvenue sur mon profil GitHub  
 
-### *Développeur full‑stack | Solutions fiables et maintenables | Apprentissage continu*  
+### *Développeur full-stack | Solutions fiables et maintenables | Apprentissage continu*  
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🧍‍♂️ À propos de moi
 
-Je suis **Abdessalam CHTOUKI**, développeur full‑stack passionné par la création d’applications web robustes et centrées utilisateur.  
+Je suis **Abdessalam CHTOUKI**, développeur full-stack passionné par la création d’applications web robustes et centrées utilisateur.  
 Mon objectif : **concevoir des solutions utiles, performantes et maintenables**.  
 Je m’intéresse particulièrement au **développement web**, au **backend**, aux **bases de données** et au **DevOps**.
 
