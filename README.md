@@ -1,8 +1,8 @@
 <div align="center" style="border: 2px solid #00BFFF; border-radius: 15px; padding: 25px; box-shadow: 0px 0px 20px rgba(0, 191, 255, 0.4); background-color: #0d1117;">
 
-#  Bienvenue sur mon profil GitHub  
+# Bienvenue sur mon profil GitHub  
 
-###  *Développeur passionné | Créateur de solutions efficaces | Apprenant perpétuel*  
+### *Développeur full‑stack | Solutions fiables et maintenables | Apprentissage continu*  
 
 </div>
 
@@ -14,9 +14,9 @@
 
 ## 🧍‍♂️ À propos de moi
 
-Je suis **Abdessalam CHTOUKI**, un développeur passionné, toujours curieux d’apprendre et d’explorer de nouvelles technologies.  
-Mon objectif : **concevoir des projets utiles, performants et élégants**.  
-Je m’intéresse particulièrement au **développement web**, à la **programmation backend**, aux **bases de données** et au **DevOps**.
+Je suis **Abdessalam CHTOUKI**, développeur full‑stack passionné par la création d’applications web robustes et centrées utilisateur.  
+Mon objectif : **concevoir des solutions utiles, performantes et maintenables**.  
+Je m’intéresse particulièrement au **développement web**, au **backend**, aux **bases de données** et au **DevOps**.
 
 ---
 
@@ -24,7 +24,7 @@ Je m’intéresse particulièrement au **développement web**, à la **programma
 
 <p>📧 <strong>Email :</strong> <a href="mailto:chtouki.a37@gmail.com">chtouki.a37@gmail.com</a></p>
 <p>📱 <strong>Téléphone :</strong> 0652868550</p>
-<p>📱 <strong>Portfolio :</strong> <a href="https://chtouki.vercel.app/">chtouki.vercel.app</a></p>
+<p>🌐 <strong>Portfolio :</strong> <a href="https://chtouki.vercel.app/">chtouki.vercel.app</a></p>
 <p>
   <a href="https://www.linkedin.com/in/abdessalam-chtouki-31943a280/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="60"/>
@@ -68,7 +68,7 @@ Je m’intéresse particulièrement au **développement web**, à la **programma
 
 ---
 
-## ☁️ DevOps & Tools
+## ☁️ DevOps & Outils
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
@@ -123,4 +123,3 @@ Je m’intéresse particulièrement au **développement web**, à la **programma
 ---
 
 </div>
-
