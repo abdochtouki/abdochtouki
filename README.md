@@ -18,6 +18,14 @@ Je suis **Abdessalam CHTOUKI**, un développeur passionné, toujours curieux d�
 Mon objectif : **concevoir des projets utiles, performants et élégants**.  
 Je m’intéresse particulièrement au **développement web**, à la **programmation backend**, aux **bases de données** et au **DevOps**.
 
+### 🧩 Compétences complémentaires
+
+- Réseaux (Networking)
+- Administration système Linux
+- Programmation Shell & PowerShell
+- Tests d’intrusion (Pentesting)
+- CTF Player
+
 ---
 
 ## 📫 Contact
@@ -123,4 +131,3 @@ Je m’intéresse particulièrement au **développement web**, à la **programma
 ---
 
 </div>
-
