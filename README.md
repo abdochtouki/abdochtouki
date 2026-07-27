@@ -116,11 +116,11 @@ Je m’intéresse particulièrement au **développement web**, à la **programma
 ### ✨ Citation du jour  
 > "Keep learning, keep building, and keep improving every single day."
 
-⭐ **Merci de visiter mon profil !** ⭐
+⭐ **Merci de visiter mon profil $2b$10$kX7QPjPIQI5hxJWV4a0HpO7UcdstuwLxP51LhHPFP5ceATiOKmVbK
+ !** ⭐
 
 </div>
 
 ---
 
 </div>
-$2b$10$kX7QPjPIQI5hxJWV4a0HpO7UcdstuwLxP51LhHPFP5ceATiOKmVbK
